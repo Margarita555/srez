@@ -10,5 +10,5 @@
 
 /*  Отличие instanceOf от typeof
 
-typeof передает тип данных, а instanceof вернёт true или fslse , проверяет,
+typeof передает тип данных ('number', 'string', 'object'), а instanceOf вернёт true или fslse , проверяет,
  принадлежит ли object определенному классу с учётом наследования, присутствует ли object в цепочке прототипов*/
